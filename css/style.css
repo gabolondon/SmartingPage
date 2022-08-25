@@ -1,0 +1,17 @@
+body{
+    padding-top: 20px;
+}
+.jumbotron {
+    background: url("/images/imghero.png") no-repeat center;
+    color: white;
+    min-height: 420px;
+}
+.btn-primary {
+    background-color: #a50303;
+    border-color: #a50303;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: #a50303;
+    color: #a50303;
+}
