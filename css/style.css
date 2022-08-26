@@ -1,5 +1,5 @@
 body{
-    padding-top: 20px;
+    padding-top: 40px;
 }
 .jumbotron {
     background: url("https://github.com/gabolondon/SmartingPage/blob/main/images/imghero.png?raw=true") no-repeat center;
@@ -14,4 +14,7 @@ body{
     background-color: transparent;
     border-color: #a50303;
     color: #a50303;
+}
+#contact {
+    background: url("/images/3274764.jpg") no-repeat center;
 }
