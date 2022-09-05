@@ -2,7 +2,9 @@ body{
     padding-top: 40px;
 }
 .jumbotron {
-    background: url("https://github.com/gabolondon/SmartingPage/blob/main/images/imghero.png?raw=true") no-repeat center;
+    /* background: url("https://github.com/gabolondon/SmartingPage/blob/main/images/imghero.png?raw=true") no-repeat center; */
+    background: rgb(136,135,135);
+    background: linear-gradient(0deg, rgba(136,135,135,1) 0%, rgba(231,231,231,1) 100%);
     color: white;
     min-height: 420px;
 }
