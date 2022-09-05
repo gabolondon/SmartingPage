@@ -1,12 +1,12 @@
 body{
     padding-top: 40px;
 }
-.jumbotron {
+#containerinicial {
     /* background: url("https://github.com/gabolondon/SmartingPage/blob/main/images/imghero.png?raw=true") no-repeat center; */
     background: rgb(136,135,135);
-    background: linear-gradient(0deg, rgba(136,135,135,1) 0%, rgba(231,231,231,1) 100%);
+    background: url("https://i.ibb.co/xz4ysKN/20220905-101352small.jpg") no-repeat right, linear-gradient(0deg, rgba(136,135,135,1) 0%, rgba(231,231,231,1) 100%);
     color: white;
-    min-height: 420px;
+    min-height: 500px;
 }
 .btn-primary {
     background-color: #a50303;
@@ -19,4 +19,11 @@ body{
 }
 #contact {
     background: url("https://github.com/gabolondon/SmartingPage/blob/gh-pages/images/3274764.jpg?raw=true") no-repeat center;
+}
+.container-align{
+    text-align: end;
+    
+}
+.row{
+    align-items: center;
 }
