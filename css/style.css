@@ -7,6 +7,7 @@ body{
     background: url("https://i.ibb.co/xz4ysKN/20220905-101352small.jpg") no-repeat right, linear-gradient(0deg, rgba(136,135,135,1) 0%, rgba(231,231,231,1) 100%);
     color: white;
     padding: 0;
+    min-height: 300px;
 }
 .btn-primary {
     background-color: #a50303;
@@ -22,14 +23,8 @@ body{
 }
 .container-align{
     text-align: end;
-    
-}
-.row{
-    align-items: center;
 }
 #cajaTitulo{
     background-color: rgba(136,135,135,0.2);
-}
-.navbar-collapse{
-    position: relative;
+    min-height: 300px;
 }
